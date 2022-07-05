@@ -1,0 +1,23 @@
+{
+  "name": "Botcord",
+  "version": "0.0.1",
+  "description": "Botcord allows you to login to Discord as a bot!",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "discord"
+  ]
+}
