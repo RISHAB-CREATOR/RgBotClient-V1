@@ -6,3 +6,5 @@ NOTE: The server is NOT required, but you may host it, so you can have a live de
 This product is still in alpha stage, don't expect it to be 100% perfect yet.
 
 Also, to the Discord Developers, if you don't feel comfromtable with the stylesheet usen, feel free to contact me, I'll take it down upon request.
+
+<center>https://rishab-creator.github.io/DiscordBotClient/<center>
