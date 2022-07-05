@@ -1,4 +1,4 @@
-# Botcord
+# Botcord (OutDated)
 Botcord is a visual representation of OAuth applications in Discord, helps you see how healthy your bot is doing.
 (NOTE! User tokens MAY have some significant issues, I've only focused on bot accounts for now)
 
