@@ -3,7 +3,7 @@
 * Please keep in mind this is still a work in progress,
 * many things can be broken, all I'm asking you, is to report
 * non-found bugs, to see list of found bugs, check out the
-* Team Cernodile server, #bugs channel.
+* Team cernodile server, #bugs channel.
 *
 * Happy testing,
 * Rishab
