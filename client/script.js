@@ -6,7 +6,7 @@
 * Team Cernodile server, #bugs channel.
 *
 * Happy testing,
-* Cernodile
+* Rishab
 */
 var Socket = new WebSocket('wss://gateway.discord.gg/?encoding=json&v=6')
 var avatarHashes = [
