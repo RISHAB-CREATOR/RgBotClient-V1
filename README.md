@@ -20,7 +20,7 @@ Welcome to RgBotClient-V1, your all-in-one solution for managing Discord bots ef
 
 ## How to Use 🎮
 
-1. Open [RgBotClient-V1](https://rishab-creator.github.io/RgBotClient-V1) in your web browser.
+1. Open [RgBotClient-V1](https://rgbotclientv1.vercel.app/) in your web browser.
 2. Log in with your Discord Bot token to access your bots and servers.
 3. Configure bot settings, commands, permissions, and other parameters as needed.
 4. Enjoy seamless bot management and automation with RgBotClient-V1!
